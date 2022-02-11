@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, I'm Rafa👋
+
+## Statuses
+
+![PingPong uptime (last 30 days)](https://img.shields.io/pingpong/uptime/sp_47854d6bc3ef414f9458071d56e3560c?label=homelab-1&style=flat-square)
+
+## Links
 
 <!--
 **rafaribe/rafaribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
